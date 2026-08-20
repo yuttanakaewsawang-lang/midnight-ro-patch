@@ -1,6 +1,6 @@
 # MIDNIGHT RO — Client Patch Repository
 
-Patch assets for the MIDNIGHT RO launcher (`MidnightROClient.exe`, built on
+Patch assets for the MIDNIGHT RO launcher (`MidnightRO.exe`, built on
 [rpatchur](https://github.com/L1nkZ/rpatchur)).
 
 Everything the launcher downloads lives in the **`patches` release** of this repo:
